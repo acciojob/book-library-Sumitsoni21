@@ -26,8 +26,9 @@ h1{
 	margin:0;
 }
 
-button{
+price{
 		background-color:green;
+	border-radius:5%;
 		color:white;
 		padding:4px;
 		border:none;
