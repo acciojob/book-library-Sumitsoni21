@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+body{
+	background-color:"#f8f8f8;
+}
+
+h1{
+	text-align:center;
+}
+
+.book-library{
+	background-color:#ffffff;
+}
+
+.book{
+	margin-bottom:40px;
+	text-align:center;
+}
+
+.title{
+	text-align:left;
+	margin:0;
+}
+
+.author{
+		text-align:left;
+	margin:0;
+}
+
+button{
+		background-color:green;
+		color:white;
+		padding:4px;
+		border:none;
+		width:100%;
+	}
